@@ -4,7 +4,7 @@ title:  "Dummy data apis"
 tags: [resources]
 categories: [English]
 ---
-# List of Apis that have dummy data for testing
+# List of Apis with dummy data for testing
 
-- https://dummyjson.com/
-- https://fakestoreapi.com/
+- [dummy json](https://dummyjson.com/)
+- [fake store api](https://fakestoreapi.com/)
