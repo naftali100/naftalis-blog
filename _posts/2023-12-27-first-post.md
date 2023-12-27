@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-tags: [first post, testing]
-categories: [tests, English]
+tags: [first post, testing, English]
+categories: [tests]
 ---
 
 # Welcome

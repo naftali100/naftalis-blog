@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Setup this blog"
-tags: tutorial
-categories: tests English
+tags: [tutorial, English]
+categories: [tests, resources]
 ---
 # How I have created this blog
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Dummy data apis"
-tags: [resources]
-categories: [English]
+tags: [resources, English]
+categories: [resources]
 ---
 # List of Apis with dummy data for testing
 
